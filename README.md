@@ -3,9 +3,9 @@
 <p align="center"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=11D452&center=true&vCenter=true&width=480&lines=Middleware%20Administrator;Always%20building%20something%20new" alt="Typing SVG" /></p>
 
 <p align="center">
-[<img src="https://img.shields.io/badge/GitHub-102216?style=for-the-badge&logo=github&logoColor=11d452"/>](https://github.com/SureshDara)
-[<img src="https://img.shields.io/badge/LinkedIn-102216?style=for-the-badge&logo=linkedin&logoColor=11d452"/>](https://linkedin.com/in/https://www.linkedin.com/in/suresh-dara-4b0919367/)
-[<img src="https://img.shields.io/badge/Email-102216?style=for-the-badge&logo=gmail&logoColor=11d452"/>](mailto:sureshdara005@gmail.com)
+<img src="https://img.shields.io/badge/GitHub-102216?style=for-the-badge&logo=github&logoColor=11d452"/>(https://github.com/SureshDara)
+<img src="https://img.shields.io/badge/LinkedIn-102216?style=for-the-badge&logo=linkedin&logoColor=11d452"/>(https://linkedin.com/in/https://www.linkedin.com/in/suresh-dara-4b0919367/)
+<img src="https://img.shields.io/badge/Email-102216?style=for-the-badge&logo=gmail&logoColor=11d452"/>(mailto:sureshdara005@gmail.com)
 </p>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=SureshDara&color=11d452&style=for-the-badge" alt="Visitor Badge" /></p>
